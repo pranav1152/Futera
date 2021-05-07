@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Tution</string>
+    <string name="background_image">Background Image</string>
+    <string name="course_name">Course Name</string>
+    <string name="class_name">Class Name</string>
+    <string name="announcement">ANNOUNCEMENT</string>
+    <string name="teach">TEACH</string>
+    <string name="assignments">ASSIGNMENTS</string>
+    <string name="announcement_heading">Announcement Heading</string>
+    <string name="sample_paragraph">Lorem ipsum dolor sit amet, ei eleifend concludaturque per, ut has liber adversarium. No sed affert legimus intellegebat, cum te dolor timeam equidem. An justo feugait fierent sea, nec ea clita causae accusamus. Everti diceret albucius cu pro, his ad postulant mnesarchum, pri unum soluta disputationi ut. Ius quidam appareat ut, sit tamquam legimus tractatos ne. Te pri graece praesent, ei his porro summo, vix posse minim vitae et. Aperiam evertitur pro ut.</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

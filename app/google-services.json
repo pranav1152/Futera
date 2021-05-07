@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1016008528299",
+    "firebase_url": "https://hello-56fa7.firebaseio.com",
+    "project_id": "hello-56fa7",
+    "storage_bucket": "hello-56fa7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1016008528299:android:cad8413fc883e6abb502ee",
+        "android_client_info": {
+          "package_name": "com.app.tution"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1016008528299-pm35km0nv36f1q22n6gsauf9cpjb919t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2Oc4rvku3sWfGdOoO-tmQjIozoMN2zY4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1016008528299-pm35km0nv36f1q22n6gsauf9cpjb919t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
