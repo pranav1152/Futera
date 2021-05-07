@@ -11,3 +11,9 @@ alt="Futera-Learning Application Demo" width="700" height="400" border="10" /></
 <p align="center">
 CLICK TO SEE CPMPLETE VIDEO
 </p>
+
+## MEET THE MAKERS
+Made with 💖 by Team \
+Omkar Amilkanthwar  &nbsp; -  [lnx2000](https://github.com/lnx2000)\
+Atharva Satpute     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - [atharva-satpute](https://github.com/atharva-satpute) \
+Pranav Deshmukh      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [pranav1152](https://github.com/pranav1152)
