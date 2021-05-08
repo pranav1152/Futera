@@ -1,4 +1,4 @@
-# Futera-Learning Application
+# Futera-Android Application for Learning 
 
 ## YOUTUBE DEMONSTRATION
 <p align="center">
