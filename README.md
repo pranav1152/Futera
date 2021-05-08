@@ -28,9 +28,3 @@ application we implemented Online Course Teaching-Learning with Assignment Submi
 | `Online Lecture` | Schedule and Monitor    |  Pay Attention with focus          |
 | `Assignment`     | Creation & Checking     |  Timely Completion with correctness|
 | `Announcement`   | Declaration & Follow Up |  View & Comment                    |
-
-## MEET THE MAKERS
-Made with 💖 by Team \
-Omkar Amilkanthwar  &nbsp; -  [lnx2000](https://github.com/lnx2000)\
-Atharva Satpute     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - [atharva-satpute](https://github.com/atharva-satpute) \
-Pranav Deshmukh      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [pranav1152](https://github.com/pranav1152)
