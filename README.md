@@ -17,6 +17,11 @@ build android application that can help us manage different aspects of work from
 We identified solution of  Work from Anywhere in system which can provide losing hands-on learning from peers with conventional teaching . Our team has built an application which will successfully solve this challenge. In this
 application we implemented Online Course Teaching-Learning with Assignment Submission & Interaction with Peers etc.
 
+## DATABASE STRUCTURE
+<p align="center">
+<img src="https://github.com/pranav1152/Futera-Learning-Application/blob/main/Images/ER%20Diagram.png" width="700" height="480">
+</p>
+
 ## FUNCTIONALITY
 | TASK             | TEACHER                 | STUDENT                            |
 | ---              | ---                     | ---                                |
